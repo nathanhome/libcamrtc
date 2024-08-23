@@ -1,0 +1,7 @@
+{
+    "name": "picamrtc",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "overrideCommand": true
+}

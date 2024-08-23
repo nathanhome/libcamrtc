@@ -1,0 +1,8 @@
+
+
+## Building webrtc static library
+This is a quite error-prune and cumbersome endevour. Thus, it is recommended to use the Dockerfile
+that comes with this project `.devcontainer/Dockerfile` and either run a build in VScode Devcontainer
+or run it with plain docker.
+
+You may have to increase the may container size in docker daemon.
